@@ -1,0 +1,458 @@
+SAMPLE,NOMINAL_SPECIES,OTU,SRA_BIOSAMPLE,LATITUDE,LONGITUDE,PI,DENOMINATOR
+NTMR_23004_Ct_bore,Ctenotus borealis,Ctenotus robustus,SAMN06709698,-11.78222,130.7744,0.003053,3219211
+NTMR_17739_Ct_bore,Ctenotus borealis,Ctenotus robustus,SAMN06709672,-12.37,130.85,0.004407,2683402
+NTMR_13838_Ct_bore,Ctenotus borealis,Ctenotus robustus,SAMN06709667,-13.03,132.43,0.00471,3240438
+NTMR_22167_Ct_bore,Ctenotus borealis,Ctenotus robustus,SAMN06709683,-13.265,130.962222,0.005911,654566
+SAMR_29707_Ct_brac,Ctenotus brachyonyx,Ctenotus aff. inornatus (1),SAMN06709821,-33.2,140.916667,0.001694,1211144
+SAMR_36349_Ct_brac,Ctenotus brachyonyx,Ctenotus aff. inornatus (1),SAMN06709833,-27.717,139.316667,0.001786,1262684
+SAMR_41330_Ct_brac,Ctenotus brachyonyx,Ctenotus aff. inornatus (1),SAMN06709840,-33.128,140.605556,0.001673,356881
+SAMR_36252_Ct_brac,Ctenotus brachyonyx,Ctenotus aff. inornatus (1),SAMN06709832,-34.9,140.45,0.001448,1252501
+SAMR_45215_Ct_brac,Ctenotus brachyonyx,Ctenotus aff. inornatus (1),SAMN06709858,-34.958,140.833333,0.001732,461210
+SAMR_55874_Ct_euta,Ctenotus eutaenius,Ctenotus aff. inornatus (1),SAMN06709906,-20.089,146.2525,0.001179,427313
+WAMR_154016_Ct_fall,Ctenotus fallens,Ctenotus aff. inornatus (1),SAMN06710053,-31.642,115.9175,0.001787,866037
+CUMV_14594_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709577,-26.226,121.5575,0.007184,634719
+WAMR_166391_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06710079,-24.6542,128.7553,0.004988,1376149
+WAMR_166392_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06710080,-24.8914,128.7692,0.006619,436801
+CUMV_14611_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709588,-28.133,123.8667,0.005462,2115230
+CUMV_14590_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709574,-26.226,121.5575,0.006625,930686
+CUMV_14655_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709589,-28.133,123.8667,0.007122,374178
+SAMR_32276_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709824,-29.525,130.15,0.005843,699331
+CUMV_14656_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709590,-28.133,123.8667,0.006699,1238528
+CUMV_14589_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709573,-26.226,121.5575,0.005877,1924508
+WAMR_157646_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06710063,-23.312,119.795556,0.00458,605419
+WAMR_108911_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709972,-21.883,122.366667,0.005112,952250
+CUMV_14606_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709587,-28.133,123.8667,0.006063,1589882
+CUMV_14593_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709576,-26.226,121.5575,0.005788,2060500
+CUMV_14598_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709581,-26.226,121.5575,0.008034,257529
+CUMV_14601_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709584,-26.226,121.5575,0.006104,1401303
+WAMR_139296_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06710019,-21.245,120.322222,0.004282,763837
+NA_ABTC60781_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709614,-20.83,130.42,0.005113,1441768
+WAMR_141131_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06710030,-27.965,120.389167,0.005266,794278
+CUMV_14591_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709575,-26.226,121.5575,0.005738,1988399
+CUMV_14597_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709580,-26.226,121.5575,0.007018,750490
+CUMV_14595_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709578,-26.226,121.5575,0.005828,1981337
+CUMV_14602_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709585,-26.226,121.5575,0.00631,1702160
+UMMZ_242616_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709937,-18.11428,123.55069,0.005406,2054564
+SAMR_35964_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709829,-26.517,135.466667,0.003492,1063292
+WAMR_084577_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709958,-27.25,124.416667,0.005579,690852
+WAMR_139523_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06710025,-22.826,114.444722,0.003671,402632
+CUMV_14599_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709582,-26.226,121.5575,0.00601,1723847
+CUMV_14604_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709586,-26.226,121.5575,0.006575,1349870
+WAMR_141301_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06710033,-21.066,116.149167,0.004583,904852
+UMMZ_242623_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709938,-19.678985,127.58666,0.005404,1654196
+WAMR_145926_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06710041,-30.723,123.423889,0.00475,786048
+WAMR_108742_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709970,-18.9,128.8,0.004905,926289
+CUMV_14600_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709583,-26.226,121.5575,0.005875,1953614
+UMMZ_242614_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709936,-18.11428,123.55069,0.00529,1811179
+CUMV_14596_Ct_hele,Ctenotus helenae,Ctenotus aff. inornatus (1),SAMN06709579,-26.226,121.5575,0.006849,978852
+SAMR_34123_Ct_hill,Ctenotus hilli,Ctenotus aff. inornatus (1),SAMN06709827,-12.65,132.8833,0.002302,1042662
+NA_CCM1580_Ct_inor,Ctenotus inornatus,Ctenotus aff. inornatus (1),SAMN06709656,-16.83117,126.22814,0.004969,1841471
+NA_CCM1249_Ct_inor,Ctenotus inornatus,Ctenotus aff. inornatus (1),SAMN06709641,-17.06662,125.2501,0.004187,1331739
+NA_CCM1445_Ct_inor,Ctenotus inornatus,Ctenotus aff. inornatus (1),SAMN06709651,-17.2923,127.172,0.004798,1765224
+NA_CCM1710_Ct_inor,Ctenotus inornatus,Ctenotus aff. inornatus (1),SAMN06709657,-15.29606,131.58511,0.004935,1670290
+NA_CCM0848_Ct_inor,Ctenotus inornatus,Ctenotus aff. inornatus (1),SAMN06709629,-15.2002,125.9067,0.002749,1276820
+NA_CCM1444_Ct_inor,Ctenotus inornatus,Ctenotus aff. inornatus (1),SAMN06709650,-17.2932,127.2175,0.005009,1612985
+NA_CCM1579_Ct_inor,Ctenotus inornatus,Ctenotus aff. inornatus (2),SAMN06709655,-16.53559,126.12857,0.004112,1440664
+NA_CCM0849_Ct_inor,Ctenotus inornatus,Ctenotus aff. inornatus (2),SAMN06709630,-15.2002,125.9067,0.004395,2495118
+NA_CCM1529_Ct_inor,Ctenotus inornatus,Ctenotus aff. inornatus (2),SAMN06709653,-16.81627,126.07679,0.004894,2760771
+NA_CCM0850_Ct_inor,Ctenotus inornatus,Ctenotus aff. inornatus (2),SAMN06709631,-15.1989,125.9035,0.005178,2557358
+NA_CCM0946_Ct_inor,Ctenotus inornatus,Ctenotus aff. inornatus (2),SAMN06709632,-14.51903,126.45811,0.004728,2930196
+NA_CCM1390_Ct_inor,Ctenotus inornatus,Ctenotus aff. inornatus (2),SAMN06709644,-16.49954,125.33637,0.0043,3173254
+NA_CCM0830_Ct_inor,Ctenotus inornatus,Ctenotus aff. inornatus (2),SAMN06709627,-15.3394,126.5893,0.00472,2023394
+NA_CCM0947_Ct_inor,Ctenotus inornatus,Ctenotus aff. inornatus (2),SAMN06709633,-14.73119,126.46005,0.006682,818188
+UMMZ_242630_Ct_inor,Ctenotus inornatus,Ctenotus aff. superciliaris,SAMN06709942,-19.24257,127.78061,0.003225,1856656
+UMMZ_242629_Ct_inor,Ctenotus inornatus,Ctenotus aff. superciliaris,SAMN06709941,-19.2425,127.78279,0.003227,1883648
+NA_CCM0535_Ct_inor,Ctenotus inornatus,Ctenotus aff. superciliaris,SAMN06709618,-15.61091,131.11597,0.003728,1625041
+UMMZ_242625_Ct_inor,Ctenotus inornatus,Ctenotus aff. superciliaris,SAMN06709940,-18.11428,123.55069,0.003322,839041
+UMMZ_242624_Ct_inor,Ctenotus inornatus,Ctenotus aff. superciliaris,SAMN06709939,-18.09191,123.56942,0.002644,2029970
+SAMAR_55259_Ct_late,Ctenotus lateralis,Ctenotus aff. inornatus (1),SAMN06709804,-21.91306,140.0217,0.005067,1804983
+SAMAR_42837_Ct_late,Ctenotus lateralis,Ctenotus aff. inornatus (1),SAMN06709765,-23.51667,141.4,0.004122,268337
+SAMAR_54463_Ct_late,Ctenotus lateralis,Ctenotus aff. inornatus (1),SAMN06709802,-19.22639,140.3481,0.004611,1245834
+SAMR_54340_Ct_late,Ctenotus lateralis,Ctenotus aff. inornatus (1),SAMN06709892,-20.775,139.7856,0.004747,1455984
+SAMAR_42768_Ct_late,Ctenotus lateralis,Ctenotus aff. inornatus (1),SAMN06709760,-22.96667,142.9,0.003747,1346777
+SAMAR_42687_Ct_late,Ctenotus lateralis,Ctenotus aff. inornatus (1),SAMN06709756,-20.71667,139.55,0.004897,1682011
+NA_CCM0090_Ct_late,Ctenotus lateralis,Ctenotus aff. inornatus (1),SAMN06709617,-18.82119,143.40658,0.002561,1266321
+SAMAR_55799_Ct_late,Ctenotus lateralis,Ctenotus aff. inornatus (1),SAMN06709810,-18.12833,144.6328,0.002446,1513602
+SAMR_65407_Ct_late,Ctenotus lateralis,Ctenotus aff. inornatus (1),SAMN06709928,-24.10167,143.0175,0.003778,1892417
+SAMR_42758_Ct_late,Ctenotus lateralis,Ctenotus aff. inornatus (1),SAMN06709845,-22.667,142.933333,0.003852,1250552
+SAMR_54434_Ct_late,Ctenotus lateralis,Ctenotus aff. inornatus (1),SAMN06709894,-19.395,140.236667,0.004443,1547027
+SAMAR_34261_Ct_late,Ctenotus lateralis,Ctenotus aff. inornatus (1),SAMN06709738,-19.91667,138.1667,0.005318,1474534
+SAMR_65416_Ct_late,Ctenotus lateralis,Ctenotus aff. inornatus (1),SAMN06709929,-24.13611,143.2017,0.003393,1786461
+SAMAR_54433_Ct_late,Ctenotus lateralis,Ctenotus aff. inornatus (1),SAMN06709801,-19.39472,140.2367,0.004468,1687849
+NMVD_67793_Ct_leae,Ctenotus leae,Ctenotus aff. inornatus (1),SAMN06709663,-24.0425,132.706,0.005652,1707481
+SAMAR_24688_Ct_leae,Ctenotus leae,Ctenotus leae,SAMN06709717,-28.66667,140.2167,0.002183,4113860
+SAMAR_31889_Ct_leae,Ctenotus leae,Ctenotus leae,SAMN06709728,-30.89278,134.1,0.003655,4435233
+SAMAR_32054_Ct_leae,Ctenotus leae,Ctenotus leae,SAMN06709730,-30.55194,132.145,0.003831,4377383
+CUMV_14467_Ct_leae,Ctenotus leae,Ctenotus leae,SAMN06709539,-28.133,123.8667,0.00365,3909813
+SAMAR_29853_Ct_leae,Ctenotus leae,Ctenotus leae,SAMN06709724,-25.5,131.8167,0.004198,2592948
+CUMV_14468_Ct_leae,Ctenotus leae,Ctenotus leae,SAMN06709540,-28.133,123.8667,0.003712,3764449
+SAMAR_36086_Ct_leae,Ctenotus leae,Ctenotus leae,SAMN06709744,-25.23333,131.0167,0.003853,4821346
+SAMAR_46332_Ct_leae,Ctenotus leae,Ctenotus leae,SAMN06709785,-29.78417,136.9228,0.002888,4685178
+NA_ABTC10512_Ct_leae,Ctenotus leae,Ctenotus leae,SAMN06709607,-29.96667,123.7667,0.003111,4524935
+SAMAR_45966_Ct_leae,Ctenotus leae,Ctenotus leae,SAMN06709784,-26.48778,129.1736,0.003662,4724590
+SAMAR_43880_Ct_leae,Ctenotus leae,Ctenotus leae,SAMN06709775,-26.76167,139.53,0.002651,4423253
+CUMV_14469_Ct_leae,Ctenotus leae,Ctenotus leae,SAMN06709541,-28.133,123.8667,0.003425,4474217
+SAMAR_66522_Ct_leae,Ctenotus leae,Ctenotus leae,SAMN06709817,-30.4436,137.8297,0.00268,4023502
+WAMR_166448_Ct_leon,Ctenotus leonhardii,Ctenotus aff. leonhardii,SAMN06710083,-24.9001,128.7697,0.002331,1548904
+WAMR_129973_Ct_leon,Ctenotus leonhardii,Ctenotus aff. leonhardii,SAMN06710003,-27.217,121.05,0.002575,2839348
+CUMV_14742_Ct_leon,Ctenotus leonhardii,Ctenotus aff. leonhardii,SAMN06709595,-28.133,123.8667,0.002175,4584963
+WAMR_127029_Ct_leon,Ctenotus leonhardii,Ctenotus aff. leonhardii,SAMN06709996,-25.243,119.631389,0.002358,1160608
+WAMR_144639_Ct_leon,Ctenotus leonhardii,Ctenotus aff. leonhardii,SAMN06710036,-29.796,121.074722,0.002175,4838627
+CUMV_14730_Ct_leon,Ctenotus leonhardii,Ctenotus aff. leonhardii,SAMN06709594,-26.226,121.5575,0.002554,4053551
+WAMR_117303_Ct_leon,Ctenotus leonhardii,Ctenotus aff. leonhardii,SAMN06709985,-28.35,116.683333,0.002176,1989100
+SAMR_62131_Ct_leon,Ctenotus leonhardii,Ctenotus aff. leonhardii,SAMN06709920,-25.9308,128.4494,0.002679,3115545
+CUMV_14744_Ct_leon,Ctenotus leonhardii,Ctenotus aff. leonhardii,SAMN06709596,-27.586,119.5208,0.002513,4455451
+NA_CCM0980_Ct_mast,Ctenotus mastigura,Ctenotus aff. inornatus (2),SAMN06709636,-14.74225,126.46691,0.004679,3107952
+CUMV_14526_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709550,-28.133,123.8667,0.005231,3142129
+WAMR_125012_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709992,-22.732,119.028611,0.005544,803900
+WAMR_153984_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06710052,-31.325,116.313611,0.002784,1942737
+WAMR_134166_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06710008,-31.413,117.754444,0.004026,831864
+CUMV_14563_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709562,-26.226,121.5575,0.004967,2835061
+NA_DLR0176_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709660,-26.226,121.5575,0.005212,2888653
+WAMR_132520_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06710007,-20.677,116.752222,0.005203,1158455
+NA_DLR0053_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709659,-26.226,121.5575,0.006747,769368
+WAMR_129885_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06710001,-24.909,126.531944,0.004732,2838948
+CUMV_14518_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709548,-28.133,123.8667,0.004997,3378149
+WAMR_158463_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06710071,-22.653,114.188056,0.004317,3024465
+WAMR_129335_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709999,-21.683,114.816667,0.004366,2797905
+CUMV_14567_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709565,-26.226,121.5575,0.00514,2900756
+SAMR_54432_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709893,-19.395,140.236667,0.002054,2328285
+CUMV_14561_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709561,-26.226,121.5575,0.006129,732303
+UMMZ_242634_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709944,-18.11428,123.55069,0.004238,2336711
+CUMV_1457314504_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709569,-26.226,121.5575,0.005632,2161816
+CUMV_14551_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709556,-26.226,121.5575,0.005477,2770049
+CUMV_14495_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709542,-26.226,121.5575,0.004918,3409396
+CUMV_14566_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709564,-26.226,121.5575,0.005017,3062382
+CUMV_14509_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709545,-28.133,123.8667,0.004976,3276047
+CUMV_14546_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709553,-26.226,121.5575,0.006434,1173151
+CUMV_14565_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709563,-26.226,121.5575,0.006424,534551
+CUMV_14525_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709549,-28.133,123.8667,0.005334,2927538
+CUMV_14550_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709555,-26.226,121.5575,0.005702,2195041
+CUMV_14517_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709547,-28.133,123.8667,0.005135,3179251
+WAMR_131057_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06710005,-22.817,127.75,0.005225,1542455
+SAMR_55674_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709901,-21.346,145.05,0.002221,1659487
+CUMV_14568_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709566,-26.226,121.5575,0.005259,3043596
+CUMV_14560_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709560,-26.226,121.5575,0.005982,1198830
+WAMR_112518_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709978,-29.287,117.626389,0.003565,817120
+CUMV_14552_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709557,-26.226,121.5575,0.006082,1177295
+SAMR_45528_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709860,-31.624,133.451389,0.004619,2537437
+SAMR_38802_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709839,-21.533,133.883333,0.004967,586618
+SAMR_44378_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709850,-26.297,130.151667,0.004903,3472905
+UMMZ_242638_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709945,-19.2393,127.82636,0.004569,2632105
+SAMR_42153_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709842,-25.686,140.616389,0.003282,3383026
+CUMV_14545_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709552,-26.226,121.5575,0.005893,1851810
+CUMV_1450314572_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709544,-26.226,121.5575,0.005651,2324922
+CUMV_14570_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709568,-26.226,121.5575,0.005051,3545712
+CUMV_14559_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709559,-26.226,121.5575,0.005614,2536673
+CUMV_14576_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709572,-27.586,119.5208,0.004121,2672663
+CUMV_14527_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709551,-28.133,123.8667,0.004972,2978425
+CUMV_14496_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709543,-26.226,121.5575,0.005515,2524445
+WAMR_140704_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06710027,-22.674,119.416111,0.005507,2580867
+NA_DLR0038_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709658,-26.226,121.5575,0.006623,734998
+CUMV_14558_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709558,-26.226,121.5575,0.005665,2238846
+CUMV_14516_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709546,-28.133,123.8667,0.005271,2496123
+CUMV_14569_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709567,-26.226,121.5575,0.005104,2843895
+CUMV_1457514506_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709571,-26.226,121.5575,0.004875,3705952
+WAMR_119962_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709991,-21.667,121.583333,0.005563,1169746
+UMMZ_242633_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709943,-18.11428,123.55069,0.004047,3598885
+UMMZ_242643_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709948,-26.4725,114.25648,0.004149,2477159
+UMMZ_242639_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709946,-19.2393,127.82636,0.004394,2694487
+UMMZ_242642_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709947,-26.4743,114.25961,0.004609,777627
+CUMV_14547_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709554,-26.226,121.5575,0.004895,3527647
+CUMV_1457414505_Ct_pant,Ctenotus pantherinus,Ctenotus pantherinus,SAMN06709570,-26.226,121.5575,0.004777,3747761
+WAMR_131053_Ct_quat,Ctenotus quattuordecimlineatus,Ctenotus aff. quattuordecimlineatus,SAMN06710004,-22.817,127.75,0.004446,313978
+SAMR_44403_Ct_quat,Ctenotus quattuordecimlineatus,Ctenotus aff. quattuordecimlineatus,SAMN06709852,-26.503,130.428611,0.003935,3166024
+WAMR_139086_Ct_quat,Ctenotus quattuordecimlineatus,Ctenotus aff. quattuordecimlineatus,SAMN06710015,-19.808,121.463889,0.004009,1031837
+SAMR_58939_Ct_quat,Ctenotus quattuordecimlineatus,Ctenotus aff. quattuordecimlineatus,SAMN06709914,-29.061,130.293889,0.003632,3499840
+UMMZ_242646_Ct_quat,Ctenotus quattuordecimlineatus,Ctenotus aff. quattuordecimlineatus,SAMN06709950,-19.22818,127.84773,0.003759,3160074
+CUMV_14847_Ct_quat,Ctenotus quattuordecimlineatus,Ctenotus aff. quattuordecimlineatus,SAMN06709602,-28.133,123.8667,0.00385,3164959
+SAMR_48772_Ct_quat,Ctenotus quattuordecimlineatus,Ctenotus aff. quattuordecimlineatus,SAMN06709873,-27.027,129.815,0.003764,2583159
+WAMR_129972_Ct_quat,Ctenotus quattuordecimlineatus,Ctenotus aff. quattuordecimlineatus,SAMN06710002,-27.217,121.05,0.003285,544062
+SAMR_62088_Ct_quat,Ctenotus quattuordecimlineatus,Ctenotus aff. quattuordecimlineatus,SAMN06709918,-24.5594,128.7097,0.004076,1473952
+UMMZ_242645_Ct_quat,Ctenotus quattuordecimlineatus,Ctenotus aff. quattuordecimlineatus,SAMN06709949,-19.2393,127.82636,0.003504,3983749
+SAMAR_54164_Ct_regi,Ctenotus regius,Ctenotus regius,SAMN06709800,-27.77833,138.2758,0.002762,3239797
+SAMAR_32289_Ct_regi,Ctenotus regius,Ctenotus regius,SAMN06709732,-29.85972,130.1022,0.002329,3855933
+SAMAR_53967_Ct_regi,Ctenotus regius,Ctenotus regius,SAMN06709798,-24.55528,133.2383,0.002331,3041213
+SAMR_48330_Ct_regi,Ctenotus regius,Ctenotus regius,SAMN06709869,-32.053,140.927222,0.002081,3388205
+NA_ABTC86833_Ct_regi,Ctenotus regius,Ctenotus regius,SAMN06709615,-34.58333,142.2167,0.001795,2605432
+SAMAR_51242_Ct_regi,Ctenotus regius,Ctenotus regius,SAMN06709797,-27.02028,133.47,0.001925,4550959
+QMJ_62372_Ct_regi,Ctenotus regius,Ctenotus regius,SAMN06709713,-25.65,140.2333,0.002823,1067197
+SAMR_47236_Ct_regi,Ctenotus regius,Ctenotus regius,SAMN06709868,-28.951,136.781944,0.002466,2088683
+NTMR_18309_Ct_regi,Ctenotus regius,Ctenotus regius,SAMN06709673,-24.065,132.744167,0.002252,685532
+SAMAR_31877_Ct_regi,Ctenotus regius,Ctenotus regius,SAMN06709727,-30.92389,134.0303,0.002269,4666399
+NA_CCM1530_Ct_robu,Ctenotus robustus,Ctenotus aff. inornatus (1),SAMN06709654,-16.82743,126.21642,0.005034,1617103
+NA_CCM0847_Ct_robu,Ctenotus robustus,Ctenotus aff. inornatus (2),SAMN06709628,-15.1328,126.1478,0.00478,2116559
+NA_CCM0823_Ct_robu,Ctenotus robustus,Ctenotus aff. inornatus (2),SAMN06709626,-15.3383,126.5917,0.005021,1832042
+NA_CCM0753_Ct_robu,Ctenotus robustus,Ctenotus aff. inornatus (2),SAMN06709621,-15.1393,126.1571,0.004501,2610030
+NA_CCM1206_Ct_robu,Ctenotus robustus,Ctenotus aff. inornatus (2),SAMN06709640,-14.671,125.733,0.004247,3169118
+NTMR_22301_Ct_robu,Ctenotus robustus,Ctenotus robustus,SAMN06709689,-15.533,135.408056,0.005723,592179
+NA_CCM1415_Ct_robu,Ctenotus robustus,Ctenotus robustus,SAMN06709647,-16.4894,125.3518,0.003684,3320525
+NA_CCM1388_Ct_robu,Ctenotus robustus,Ctenotus robustus,SAMN06709642,-16.4927,125.3447,0.003606,3882566
+NA_CCM1389_Ct_robu,Ctenotus robustus,Ctenotus robustus,SAMN06709643,-16.4668,125.3723,0.003889,2907851
+WAMR_146012_Ct_robu,Ctenotus robustus,Ctenotus robustus,SAMN06710042,-16.743,124.095,0.003546,1714361
+NTMR_23791_Ct_robu,Ctenotus robustus,Ctenotus robustus,SAMN06709700,-16.853,130.185556,0.004082,1400601
+NA_CCM1412_Ct_robu,Ctenotus robustus,Ctenotus robustus,SAMN06709646,-16.494,125.3417,0.00364,4153501
+NTMR_22620_Ct_robu,Ctenotus robustus,Ctenotus robustus,SAMN06709694,-15.30667,135.3408,0.004441,3280461
+NTMR_18323_Ct_robu,Ctenotus robustus,Ctenotus robustus,SAMN06709674,-15.16083,131.6692,0.00481,2566931
+NTMR_22175_Ct_robu,Ctenotus robustus,Ctenotus robustus,SAMN06709684,-13.265,130.961389,0.004638,2629887
+NTMR_23960_Ct_robu,Ctenotus robustus,Ctenotus robustus,SAMN06709701,-12.2175,134.9847,0.004461,3595327
+WAMR_145686_Ct_robu,Ctenotus robustus,Ctenotus robustus,SAMN06710040,-22.101,118.991389,0.002308,914044
+NTMR_22934_Ct_robu,Ctenotus robustus,Ctenotus robustus,SAMN06709697,-15.307,129.158333,0.005479,433144
+NA_CCM1409_Ct_robu,Ctenotus robustus,Ctenotus robustus,SAMN06709645,-16.4668,125.3723,0.003683,4739884
+WAMR_141379_Ct_robu,Ctenotus robustus,Ctenotus robustus,SAMN06710034,-21.102,116.131667,0.002184,2109383
+NA_CCM0956_Ct_robu,Ctenotus robustus,Ctenotus robustus,SAMN06709634,-14.75187,126.47722,0.002321,3345075
+SAMR_36603_Ct_robu,Ctenotus robustus,Ctenotus aff. spaldingi (1),SAMN06709834,-35.083,148.916667,0.00195,1657080
+SAMR_19910_Ct_robu,Ctenotus robustus,Ctenotus aff. spaldingi (1),SAMN06709819,-32.2,135.116667,0.001732,2978596
+QM_48384_Ct_robu,Ctenotus robustus,Ctenotus aff. spaldingi (1),SAMN06709705,-22.4,143,0.001964,634054
+SAMAR_55731_Ct_robu,Ctenotus robustus,Ctenotus aff. spaldingi (1),SAMN06709809,-20.65528,141.7975,0.001472,410974
+SAMR_33707_Ct_robu,Ctenotus robustus,Ctenotus aff. spaldingi (1),SAMN06709826,-33.2,149.666667,0.002844,2532118
+SAMR_55746_Ct_robu,Ctenotus robustus,Ctenotus aff. spaldingi (1),SAMN06709905,-20.975,141.891667,0.001825,2548166
+NA_ABTC03841_Ct_robu,Ctenotus robustus,Ctenotus aff. spaldingi (1),SAMN06709605,-27,151.83,0.004776,210844
+SAMR_52956_Ct_robu,Ctenotus robustus,Ctenotus aff. spaldingi (1),SAMN06709885,-30.119,139.448333,0.002478,1249974
+SAMR_37975_Ct_robu,Ctenotus robustus,Ctenotus aff. spaldingi (1),SAMN06709838,-33.833,139.016667,0.002851,2019258
+SAMR_33560_Ct_robu,Ctenotus robustus,Ctenotus aff. spaldingi (1),SAMN06709825,-30.25,149.85,0.003632,2754864
+SAMR_55881_Ct_robu,Ctenotus robustus,Ctenotus aff. spaldingi (1),SAMN06709907,-24.198,146.550833,0.004065,266936
+SAMR_47028_Ct_robu,Ctenotus robustus,Ctenotus aff. spaldingi (1),SAMN06709867,-36.738,140.239722,0.002018,2387896
+SAMR_54008_Ct_saxa,Ctenotus saxatilis,Ctenotus aff. inornatus (1),SAMN06709888,-21.506,133.893889,0.005306,963123
+NMVD_67682_Ct_saxa,Ctenotus saxatilis,Ctenotus aff. inornatus (1),SAMN06709662,-23.7,132.7,0.005684,1051706
+SAMR_50209_Ct_saxa,Ctenotus saxatilis,Ctenotus aff. inornatus (1),SAMN06709880,-26.141,132.359167,0.005267,913300
+SAMR_50208_Ct_saxa,Ctenotus saxatilis,Ctenotus aff. inornatus (1),SAMN06709879,-26.141,132.359167,0.004683,1285720
+NTMR_20628_Ct_saxa,Ctenotus saxatilis,Ctenotus aff. inornatus (1),SAMN06709676,-24.1,132.7,0.005041,1114098
+WAMR_139249_Ct_saxa,Ctenotus saxatilis,Ctenotus pantherinus,SAMN06710017,-21.287,120.459444,0.006097,1022283
+WAMR_158376_Ct_saxa,Ctenotus saxatilis,Ctenotus aff. superciliaris,SAMN06710067,-22.644,114.415,0.00225,2174268
+WAMR_135692_Ct_saxa,Ctenotus saxatilis,Ctenotus aff. superciliaris,SAMN06710012,-17.983,122.333333,0.003065,2288587
+WAMR_117679_Ct_saxa,Ctenotus saxatilis,Ctenotus aff. superciliaris,SAMN06709986,-20.567,115.566667,0.001892,2062397
+NTMR_13503_Ct_saxa,Ctenotus saxatilis,Ctenotus aff. superciliaris,SAMN06709664,-16.823,130.42,0.003938,906879
+WAMR_158204_Ct_saxa,Ctenotus saxatilis,Ctenotus aff. superciliaris,SAMN06710065,-22.403,119.861111,0.002104,2640481
+WAMR_108766_Ct_saxa,Ctenotus saxatilis,Ctenotus aff. superciliaris,SAMN06709971,-18.917,125.266667,0.003509,1771276
+SAMR_62121_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (1),SAMN06709919,-25.9325,128.4411,0.003636,1661015
+NA_ABTC113798_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (1),SAMN06709608,-24.08083,143.1983,0.002002,3056593
+NA_ABTC12623_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (1),SAMN06709613,-24.43333,131.8167,0.004064,2929911
+SAMAR_35050_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (1),SAMN06709742,-28.28333,140.9,0.002278,2146757
+SAMR_62172_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (1),SAMN06709921,-25.9386,128.3897,0.003682,701836
+SAMAR_37073_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (1),SAMN06709748,-34.31667,139.5,0.001486,3885815
+SAMR_65381_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (1),SAMN06709927,-24.07556,143.1897,0.001866,3113625
+SAMAR_62561_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (1),SAMN06709816,-29.87778,133.6169,0.003948,4045198
+SAMAR_48354_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (1),SAMN06709790,-30.46306,140.9447,0.002277,4178726
+SAMAR_46452_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (1),SAMN06709787,-29.13694,136.5664,0.001658,4236871
+WAMR_102261_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (2),SAMN06709962,-23.044,115.812222,0.003536,3556601
+SAMAR_32255_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (2),SAMN06709731,-29.44528,130.1744,0.003404,2848010
+WAMR_100527_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (2),SAMN06709960,-29.833,120.916667,0.003918,3274482
+SAMAR_25378_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (2),SAMN06709718,-30.8,132.1167,0.003473,3917314
+WAMR_151655_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (2),SAMN06710049,-31.195,116.307222,0.003802,3456115
+UMMZ_242648_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (2),SAMN06709951,-26.4725,114.25648,0.003989,4085481
+WAMR_102733_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (2),SAMN06709968,-24.575,120.307778,0.004749,378575
+CUMV_14681_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (2),SAMN06709591,-26.226,121.5575,0.004323,1020518
+WAMR_151241_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (2),SAMN06710048,-32.86,121.4,0.003723,1346562
+WAMR_157443_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (2),SAMN06710060,-19.593,128.861111,0.004309,973234
+WAMR_077870_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (2),SAMN06709957,-32.103,126.291667,0.003853,1311043
+SAMAR_26265_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (2),SAMN06709722,-31.61389,129.1056,0.003434,3698689
+CUMV_14700_Ct_scho,Ctenotus schomburgkii,Ctenotus aff. schomburgkii (2),SAMN06709593,-27.586,119.5208,0.004224,3413639
+WAMR_139164_Ct_serv,Ctenotus severus,Ctenotus aff. leonhardii,SAMN06710016,-20.65,116.766667,0.003073,1764912
+WAMR_146913_Ct_seve,Ctenotus severus,Ctenotus aff. inornatus (1),SAMN06710045,-29.585,117.270278,0.002347,735756
+WAMR_152991_Ct_seve,Ctenotus severus,Ctenotus aff. inornatus (1),SAMN06710051,-27.399,117.470833,0.003388,1350776
+WAMR_156159_Ct_seve,Ctenotus severus,Ctenotus aff. inornatus (1),SAMN06710055,-24.75,117.366667,0.003179,423026
+NA_CCM1061_Ct_sp,Ctenotus sp.,Ctenotus aff. inornatus (2),NA_CCM1061_Ct_sp,-16.0969,126.5112,0.004372,3173080
+NTMR_22622_Ct_spal,Ctenotus spaldingi,Ctenotus aff. spaldingi (2),SAMN06709696,-15.30667,135.3408,0.003564,3970775
+SAMR_55725_Ct_spal,Ctenotus spaldingi,Ctenotus aff. spaldingi (2),SAMN06709903,-20.624,144.399722,0.003453,2041873
+SAMAR_55675_Ct_spal,Ctenotus spaldingi,Ctenotus aff. spaldingi (2),SAMN06709806,-21.09167,145.0044,0.00438,3012801
+SAMAR_34202_Ct_spal,Ctenotus spaldingi,Ctenotus aff. spaldingi (2),SAMN06709736,-17.33333,138.25,0.003644,4012969
+NTMR_22299_Ct_spal,Ctenotus spaldingi,Ctenotus aff. spaldingi (2),SAMN06709688,-15.53306,135.4081,0.003379,5522005
+NTMR_21670_Ct_spal,Ctenotus spaldingi,Ctenotus aff. spaldingi (2),SAMN06709681,-15.533,133.183,0.003256,4190994
+NTMR_22298_Ct_spal,Ctenotus spaldingi,Ctenotus aff. spaldingi (2),SAMN06709687,-15.48333,135.4122,0.00346,5588492
+SAMAR_51093_Ct_spal,Ctenotus spaldingi,Ctenotus aff. spaldingi (2),SAMN06709796,-17.56667,133.5333,0.003299,3171032
+SAMAR_54485_Ct_spal,Ctenotus spaldingi,Ctenotus aff. spaldingi (2),SAMN06709803,-20.98583,145.0317,0.004084,3736755
+NTMR_22621_Ct_spal,Ctenotus spaldingi,Ctenotus aff. spaldingi (2),SAMN06709695,-15.30667,135.3408,0.003687,3399771
+NTMR_22325_Ct_spal,Ctenotus spaldingi,Ctenotus aff. spaldingi (2),SAMN06709690,-16.01583,135.6669,0.003405,5636767
+NTMR_25983_Ct_spal,Ctenotus spaldingi,Ctenotus aff. superciliaris,SAMN06709703,-16.03778,130.79,0.00349,2699859
+SAMAR_50902_Ct_stra,Ctenotus strauchii,Ctenotus aff. strauchii,SAMN06709795,-26.78667,138.3025,0.004049,3414935
+SAMAR_34780_Ct_stra,Ctenotus strauchii,Ctenotus aff. strauchii,SAMN06709740,-31.63333,137.6167,0.00441,2062290
+SAMR_46857_Ct_stra,Ctenotus strauchii,Ctenotus aff. strauchii,SAMN06709865,-26.524,134.4419,0.003399,3766539
+SAMR_42487_Ct_stra,Ctenotus strauchii,Ctenotus aff. strauchii,SAMN06709843,-27.257,135.505,0.003737,3897215
+SAMR_44903_Ct_stra,Ctenotus strauchii,Ctenotus aff. strauchii,SAMN06709853,-29,138.505556,0.003914,3871458
+SAMAR_42800_Ct_stra,Ctenotus strauchii,Ctenotus aff. strauchii,SAMN06709763,-23.66667,140.9667,0.003607,2607552
+SAMAR_42955_Ct_stra,Ctenotus strauchii,Ctenotus aff. strauchii,SAMN06709773,-25.68333,140.7333,0.004425,2796102
+SAMAR_37916_Ct_stra,Ctenotus strauchii,Ctenotus aff. strauchii,SAMN06709749,-29.55833,137.325,0.003936,4434342
+SAMR_45029_Ct_stra,Ctenotus strauchii,Ctenotus aff. strauchii,SAMN06709856,-26.385,140.345,0.004256,3788200
+SAMR_44955_Ct_stra,Ctenotus strauchii,Ctenotus aff. strauchii,SAMN06709855,-29.545,139.4117,0.003643,3557595
+SAMAR_42343_Ct_stra,Ctenotus strauchii,Ctenotus aff. strauchii,SAMN06709753,-30.56667,139.35,0.003376,362240
+SAMR_57397_Ct_atla,Ctenotus atlas,Ctenotus atlas,SAMN06709911,-33.393889,137.342778,0.003871,4176743
+WAMR_135237_Ct_atla,Ctenotus atlas,Ctenotus atlas,SAMN06710010,-32.007,121.8308,0.003607,2310267
+WAMR_135218_Ct_atla,Ctenotus atlas,Ctenotus atlas,SAMN06710009,-32.14,121.8444,0.003517,2814256
+SAMR_55208_Ct_atla,Ctenotus atlas,Ctenotus atlas,SAMN06709897,-33.741,140.0483,0.000692,2382610
+WAMR_136457_Ct_atla,Ctenotus atlas,Ctenotus atlas,SAMN06710014,-28.617,119.0667,0.0032,2493570
+SAMR_31859_Ct_atla,Ctenotus atlas,Ctenotus atlas,SAMN06709822,-30.615,133.2322,0.004171,783515
+WAMR_126428_Ct_atla,Ctenotus atlas,Ctenotus atlas,SAMN06709995,-30.283,119.7603,0.003668,3362297
+SAMR_32256_Ct_atla,Ctenotus atlas,Ctenotus atlas,SAMN06709823,-29.445,130.1744,0.004329,1216761
+SAMR_37962_Ct_atla,Ctenotus atlas,Ctenotus atlas,SAMN06709837,-33.167,137.1333,0.005032,404435
+SAMR_60360_Ct_atla,Ctenotus atlas,Ctenotus atlas,SAMN06709915,-29.499,129.3319,0.00426,4093880
+SAMR_37942_Ct_atla,Ctenotus atlas,Ctenotus atlas,SAMN06709836,-33.294,137.2083,0.003949,3321626
+WAMR_113416_Ct_atla,Ctenotus atlas,Ctenotus atlas,SAMN06709980,-30.225,123.6833,0.004562,3649910
+NA_DLR0549_Ct_broo,Ctenotus brooksi,Ctenotus brooksi,SAMN06709661,-28.133,123.8667,0.002809,3999659
+SAMAR_45963_Ct_broo,Ctenotus brooksi,Ctenotus brooksi,SAMN06709783,-26.48778,129.1736,0.003363,3816485
+CUMV_14409_Ct_broo,Ctenotus brooksi,Ctenotus brooksi,SAMN06709535,-28.133,123.8667,0.002965,4098281
+CUMV_14410_Ct_broo,Ctenotus brooksi,Ctenotus brooksi,SAMN06709536,-28.133,123.8667,0.003025,3496133
+SAMAR_58943_Ct_broo,Ctenotus brooksi,Ctenotus brooksi,SAMN06709814,-29.08639,130.2689,0.003669,1989019
+CUMV_14411_Ct_broo,Ctenotus brooksi,Ctenotus brooksi,SAMN06709537,-28.133,123.8667,0.002838,3623076
+NA_ABTC12607_Ct_broo,Ctenotus brooksi,Ctenotus brooksi,SAMN06709612,-24.66667,131.8333,0.00334,1507373
+CUMV_14408_Ct_broo,Ctenotus brooksi,Ctenotus brooksi,SAMN06709534,-28.133,123.8667,0.002812,4375964
+SAMAR_32029_Ct_broo,Ctenotus brooksi,Ctenotus brooksi,SAMN06709729,-30.58556,132.2392,0.003127,3498565
+SAMAR_29939_Ct_broo,Ctenotus brooksi,Ctenotus brooksi,SAMN06709725,-25.5,131.8167,0.002643,4316633
+NA_ABTC10487_Ct_broo,Ctenotus brooksi,Ctenotus brooksi,SAMN06709606,-29.96667,123.7667,0.002903,4801207
+QM_62377_Ct_broo,Ctenotus brooksi,Ctenotus euclae,SAMN06709707,-25.65,140.233333,0.003691,642700
+WAMR_139391_Ct_duri,Ctenotus duricola,Ctenotus duricola,SAMN06710020,-21.204,120.4731,0.004599,2341748
+WAMR_160095_Ct_duri,Ctenotus duricola,Ctenotus duricola,SAMN06710072,-21.304,121.2,0.004556,2526570
+WAMR_158107_Ct_duri,Ctenotus duricola,Ctenotus duricola,SAMN06710064,-22.467,119.023,0.004406,1933200
+WAMR_099165_Ct_duri,Ctenotus duricola,Ctenotus duricola,SAMN06709959,-21.609,118.974444,0.004719,2649720
+WAMR_162334_Ct_duri,Ctenotus duricola,Ctenotus duricola,SAMN06710075,-22.095,119.753,0.004695,2572231
+WAMR_157132_Ct_pian,Ctenotus duricola,Ctenotus duricola,SAMN06710057,-22.686,120.2467,0.004276,1978774
+WAMR_157067_Ct_duri,Ctenotus duricola,Ctenotus duricola,SAMN06710056,-22.837,119.3972,0.003892,2613781
+WAMR_170880_Ct_duri,Ctenotus duricola,Ctenotus duricola,SAMN06710086,-21.237,119.408,0.004866,2523275
+WAMR_161462_Ct_duri,Ctenotus duricola,Ctenotus duricola,SAMN06710073,-20.935,119.858,0.004218,3521719
+WAMR_139394_Ct_duri,Ctenotus duricola,Ctenotus duricola,SAMN06710021,-21.351,120.4469,0.004645,3062273
+WAMR_170467_Ct_duri,Ctenotus duricola,Ctenotus duricola,SAMN06710085,-23.499,120.291,0.003591,2913295
+WAMR_145630_Ct_duri,Ctenotus duricola,Ctenotus duricola,SAMN06710038,-20.78,118.64,0.004937,2108117
+SAMR_42034_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709841,-26.26,130.3853,0.003942,5054602
+SAMAR_48573_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709791,-27.33583,130.2261,0.004031,4261272
+QMJ_62380_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709715,-23.83333,138.0833,0.003722,3722744
+CUMV_14365_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709525,-28.133,123.8667,0.004621,1288382
+CUMV_14366_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709526,-28.133,123.8667,0.004028,5268147
+CUMV_14373_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709529,-28.133,123.8667,0.004246,4409857
+SAMAR_29946_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709726,-25.5,131.8167,0.004036,3547852
+CUMV_14370_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709528,-28.133,123.8667,0.004222,4458833
+SAMR_62031_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709917,-24.6286,128.7556,0.004139,3767962
+CUMV_14357_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709522,-26.226,121.5575,0.002161,2717349
+SAMR_46165_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709863,-26.517,129.2019,0.003834,4312074
+CUMV_14369_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709527,-28.133,123.8667,0.004666,1137274
+CUMV_14364_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709524,-28.133,123.8667,0.004973,1745896
+WAMR_166441_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06710082,-24.6964,128.7628,0.004087,3466906
+SAMR_56476_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709909,-27.077,129.7728,0.003939,3239245
+CUMV_14374_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709530,-28.133,123.8667,0.004276,4158319
+SAMR_44387_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709851,-26.247,130.1122,0.00394,4478346
+SAMR_45608_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709861,-27.043,131.2933,0.004012,4262742
+CUMV_14362_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709523,-26.226,121.5575,0.002051,3274622
+SAMR_36098_Ct_dux,Ctenotus dux,Ctenotus dux,SAMN06709830,-25.233,131.0167,0.003989,4579613
+SAMR_46072_Ct_eucl,Ctenotus euclae,Ctenotus euclae,SAMN06709862,-33.093,136.693889,0.002298,1118180
+SAMAR_25688_Ct_eucl,Ctenotus euclae,Ctenotus euclae,SAMN06709721,-31.49222,131.2667,0.002184,3036283
+SAMAR_36575_Ct_eucl,Ctenotus euclae,Ctenotus euclae,SAMN06709745,-33.175,134.825,0.002573,3843651
+SAMAR_61390_Ct_eucl,Ctenotus euclae,Ctenotus euclae,SAMN06709815,-32.14722,133.1417,0.002635,3551689
+NA_ABTC113897_Ct_hebe,Ctenotus hebetior,Ctenotus hebetior,SAMN06709610,-26.76278,142.5239,0.002544,4271272
+SAMR_65380_Ct_hebe,Ctenotus hebetior,Ctenotus hebetior,SAMN06709926,-24.07556,143.1897,0.002391,3201420
+SAMAR_55677_Ct_hebe,Ctenotus hebetior,Ctenotus hebetior,SAMN06709807,-21.09167,145.0044,0.001689,3338008
+SAMR_65346_Ct_hebe,Ctenotus hebetior,Ctenotus hebetior,SAMN06709923,-22.39056,139.9589,0.003938,3002348
+SAMR_65347_Ct_hebe,Ctenotus hebetior,Ctenotus hebetior,SAMN06709924,-22.39056,139.9589,0.003946,3382322
+SAMR_65379_Ct_hebe,Ctenotus hebetior,Ctenotus hebetior,SAMN06709925,-24.07556,143.1897,0.002545,2466492
+SAMR_55678_Ct_hebe,Ctenotus hebetior,Ctenotus hebetior,SAMN06709902,-21.092,145.004444,0.001679,2510224
+SAMAR_42880_Ct_hebe,Ctenotus hebetior,Ctenotus hebetior,SAMN06709769,-24.11667,143.4167,0.002276,3206480
+SAMAR_42788_Ct_hebe,Ctenotus hebetior,Ctenotus hebetior,SAMN06709762,-23.75,141.1333,0.001274,4495887
+SAMAR_42776_Ct_hebe,Ctenotus hebetior,Ctenotus hebetior,SAMN06709761,-22.96667,142.9,0.002524,3751916
+WAMR_110222_Ct_duri,Ctenotus pallasotus,Ctenotus pallasotus,SAMN06709973,-21.384,117.061,0.004571,2229426
+WAMR_157566_Ct_duri,Ctenotus pallasotus,Ctenotus pallasotus,SAMN06710061,-21.674,115.8892,0.005675,571653
+WAMR_102494_Ct_duri,Ctenotus pallasotus,Ctenotus pallasotus,SAMN06709964,-23.389,115.8867,0.004372,2825711
+WAMR_119931_Ct_duri,Ctenotus pallasotus,Ctenotus pallasotus,SAMN06709989,-22.467,117.3,0.003433,2390324
+WAMR_139423_Ct_duri,Ctenotus pallasotus,Ctenotus pallasotus,SAMN06710024,-21.373,115.3733,0.00493,1414784
+WAMR_102159_Ct_duri,Ctenotus pallasotus,Ctenotus pallasotus,SAMN06709961,-22.599,118.6389,0.003499,3246510
+WAMR_111584_Ct_duri,Ctenotus pallasotus,Ctenotus pallasotus,SAMN06709977,-22.716,118.263,0.003095,1417311
+WAMR_141296_Ct_duri,Ctenotus pallasotus,Ctenotus pallasotus,SAMN06710032,-21.066,116.1492,0.004526,3058684
+WAMR_170291_Ct_duri,Ctenotus pallasotus,Ctenotus pallasotus,SAMN06710084,-23.34,117.801,0.00321,2008041
+WAMR_110668_Ct_duri,Ctenotus pallasotus,Ctenotus pallasotus,SAMN06709975,-22.403,113.843333,0.002756,289569
+SAMR_35905_Ct_taen,Ctenotus taeniatus,Ctenotus euclae,SAMN06709828,-26.283,136.083333,0.003508,3055070
+SAMAR_42658_Ct_taen,Ctenotus taeniatus,Ctenotus euclae,SAMN06709754,-25.23333,139.55,0.00287,1941482
+SAMAR_36034_Ct_taen,Ctenotus taeniatus,Ctenotus euclae,SAMN06709743,-28.75,138.4667,0.004559,1795808
+SAMR_44934_Ct_taen,Ctenotus taeniatus,Ctenotus euclae,SAMN06709854,-29.758,138.667778,0.002939,4302413
+SAMAR_47257_Ct_taen,Ctenotus taeniatus,Ctenotus euclae,SAMN06709789,-28.4325,136.4533,0.003429,3613932
+SAMAR_39563_Ct_taen,Ctenotus taeniatus,Ctenotus euclae,SAMN06709751,-35.62389,140.4789,0.0013,3524189
+UMMZ_242655_Ct_zast,Ctenotus zastictus,Ctenotus pallasotus,SAMN06709956,-26.4743,114.25961,0.001316,415607
+UMMZ_242654_Ct_zast,Ctenotus zastictus,Ctenotus pallasotus,SAMN06709955,-26.4725,114.25648,0.001456,374237
+WAMR_116263_Le_axil,Lerista axillaris,Lerista gerrardii,SAMN09440329,-27.85,114.1667,0.001413,4262312
+WAMR_146449_Le_axil,Lerista axillaris,Lerista gerrardii,SAMN09440336,-27.9,114.15,0.001533,2405691
+CUMV_14454_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440212,-28.133,123.8667,0.001795,3412916
+CUMV_14488_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440220,-26.226,121.5575,0.001063,4901132
+SAMAR_29902_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440225,-25.51667,131.8167,0.001457,3647079
+WAMR_116605_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440228,-22.6833,114.05,0.001291,3228805
+CUMV_14484_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440216,-26.226,121.5575,0.001159,3979354
+CUMV_14482_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440214,-26.226,121.5575,0.00114,3096301
+CUMV_14487_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440219,-26.226,121.5575,0.00108,3722988
+UMMZ_242664_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440226,-18.11428,123.55069,0.003317,3302231
+CUMV_14483_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440215,-26.226,121.5575,0.001116,5200549
+WAMR_146665_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440233,-21.2597,118.815,0.002914,2252940
+WAMR_157527_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440235,-21.6738,115.8892,0.000877,2477547
+UMMZ_242672_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440227,-19.24087,127.80387,0.001883,3983363
+CUMV_14492_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440224,-26.226,121.5575,0.001137,4372924
+CUMV_14486_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440218,-26.226,121.5575,0.00109,5277251
+WAMR_157536_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440236,-21.674,115.889167,0.001485,173727
+WAMR_139069_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440232,-19.779,121.365833,0.004205,1299038
+WAMR_170017_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440238,-21.114722,118.851667,0.001968,1775459
+CUMV_14485_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440217,-26.226,121.5575,0.001168,2671511
+WAMR_159888_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440237,-20.475556,117.995278,0.002218,3795668
+CUMV_14489_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440221,-26.226,121.5575,0.001194,5175250
+CUMV_14491_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440223,-26.226,121.5575,0.001111,5362191
+WAMR_129955_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440229,-27.2166,121.05,0.001095,4232082
+CUMV_14480_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440213,-26.226,121.5575,0.001005,4880137
+WAMR_157356_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440234,-19.8569,128.8481,0.00191,4271549
+CUMV_14490_Le_bipe,Lerista bipes,Lerista aff. bipes,SAMN09440222,-26.226,121.5575,0.000963,5608199
+WAMR_136309_Le_conn,Lerista connivens,Lerista connivens,SAMN09440259,-26.7788,115.6278,0.002772,4300728
+WAMR_145907_Le_conn,Lerista connivens,Lerista connivens,SAMN09440261,-26.4166,113.6167,0.002517,3528833
+WAMR_123614_Le_conn,Lerista connivens,Lerista connivens,SAMN09440258,-25.8388,113.6064,0.003282,4210358
+WAMR_169905_Le_conn,Lerista connivens,Lerista connivens,NA,-25.7286,125.0261,0.002823,3622252
+WAMR_123019_Le_conn,Lerista connivens,Lerista connivens,SAMN09440257,-26.2169,114.5992,0.003144,3599003
+WAMR_120587_Le_conn,Lerista connivens,Lerista connivens,SAMN09440255,-24.413,113.7067,0.001867,3674652
+WAMR_115228_Le_conn,Lerista connivens,Lerista connivens,SAMN09440254,-27.5666,114.6667,0.002419,4131437
+SAMAR_46517_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440289,-30.82278,135.8217,0.001079,4286485
+CUMV_14673_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440283,-26.226,121.5575,0.0026,3460229
+CUMV_14616_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440264,-26.226,121.5575,0.002154,3642104
+CUMV_14671_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440281,-26.226,121.5575,0.002628,4253407
+CUMV_14620_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440268,-26.226,121.5575,0.002662,3301342
+WAMR_145352_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440296,-25.3177,120.8706,0.002113,2620194
+CUMV_14613_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440262,-26.226,121.5575,0.002789,1313320
+WAMR_163385_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440300,-28.3025,125.8161,0.001889,4201970
+CUMV_14665_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440275,-26.226,121.5575,0.002999,1504474
+CUMV_14669_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440279,-26.226,121.5575,0.002658,2923128
+WAMR_117238_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440292,-30.2166,123.6333,0.001958,3720750
+NA_ABTC12574_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440285,-24.36667,131.8,0.001694,2426342
+CUMV_14667_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440277,-26.226,121.5575,0.002495,4210652
+CUMV_14617_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440265,-26.226,121.5575,0.002651,4461661
+SAMAR_46254_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440288,-27.88611,134.8922,0.001117,4382395
+CUMV_14664_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440274,-26.226,121.5575,0.00267,2174880
+WAMR_135139_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440294,-27.9308,122.3181,0.002449,4048129
+CUMV_14666_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440276,-26.226,121.5575,0.002236,3539459
+CUMV_14618_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440266,-26.226,121.5575,0.002673,3731294
+CUMV_14619_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440267,-26.226,121.5575,0.002642,2546129
+CUMV_14637_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440271,-26.226,121.5575,0.002704,4314953
+CUMV_14635_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440269,-26.226,121.5575,0.003011,1188696
+CUMV_14668_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440278,-26.226,121.5575,0.002519,5411043
+SAMAR_32100_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440286,-30.475,131.985,0.002031,4196831
+CUMV_14638_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440272,-26.226,121.5575,0.002557,4051957
+CUMV_14672_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440282,-26.226,121.5575,0.002518,5296194
+WAMR_172265_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440302,-28.3722,127.5103,0.002281,546268
+WAMR_166720_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440301,-28.6833,124.5064,0.002175,3582358
+CUMV_14670_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440280,-26.226,121.5575,0.002757,2444954
+CUMV_14636_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440270,-26.226,121.5575,0.002613,5084060
+SAMAR_35906_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440287,-26.21667,135.9667,0.001384,3650157
+CUMV_14674_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440284,-26.226,121.5575,0.002649,1794181
+CUMV_14614_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440263,-26.226,121.5575,0.002887,2627718
+WAMR_140416_Le_dese,Lerista desertorum,Lerista desertorum,SAMN09440295,-28.0316,120.1558,0.001962,3911258
+WAMR_103944_Le_eupo,Lerista eupoda,Lerista gerrardii,SAMN09440324,-27.3,117.9667,0.003469,1288291
+WAMR_103943_Le_eupo,Lerista eupoda,Lerista gerrardii,SAMN09440323,-27.3166,117.95,0.003656,3440270
+WAMR_108853_Le_eupo,Lerista eupoda,Lerista gerrardii,SAMN09440325,-26.95,118.3167,0.003237,1524405
+WAMR_168608_Le_eupo,Lerista eupoda,Lerista gerrardii,SAMN09440337,-26.848,117.8172,0.003067,4196938
+WAMR_113567_Le_gerr,Lerista gerrardii,Lerista gerrardii,SAMN09440326,-29.4833,116.95,0.003812,2714201
+WAMR_144090_Le_gerr,Lerista gerrardii,Lerista gerrardii,SAMN09440335,-31.2666,116.85,0.001153,2504000
+WAMR_117306_Le_gerr,Lerista gerrardii,Lerista gerrardii,SAMN09440331,-29.9166,117.7,0.003547,4188397
+WAMR_115068_Le_gerr,Lerista gerrardii,Lerista gerrardii,SAMN09440328,-28.1,115.55,0.003578,3302274
+WAMR_117372_Le_gerr,Lerista gerrardii,Lerista gerrardii,SAMN09440332,-31.6,119.8075,0.001342,3693757
+WAMR_114681_Le_gerr,Lerista gerrardii,Lerista gerrardii,SAMN09440327,-28.8833,114.75,0.002089,4754399
+WAMR_136441_Le_gerr,Lerista gerrardii,Lerista gerrardii,SAMN09440334,-28.6166,119.0667,0.002974,3654084
+WAMR_137919_Le_ips,Lerista ips,Lerista aff. bipes,SAMN09440231,-21.7611,122.2233,0.003263,2260788
+WAMR_145388_Le_macr,Lerista macropisthopus,Lerista desertorum,SAMN09440297,-29.9238,121.14,0.002246,1219207
+WAMR_156155_Le_macr,Lerista macropisthopus,Lerista desertorum,SAMN09440299,-24.8391,117.2308,0.00159,1371021
+WAMR_102274_Le_macr,Lerista macropisthopus,Lerista desertorum,SAMN09440290,-23.113,116.0117,0.001397,621928
+WAMR_116269_Le_macr,Lerista macropisthopus,Lerista gerrardii,SAMN09440330,-27.95,114.6333,0.002714,4161606
+WAMR_123714_Le_macr,Lerista macropisthopus,Lerista gerrardii,SAMN09440333,-24.413,113.7067,0.003066,3477361
+WAMR_117169_Le_punc,Lerista punctatovittata ,Lerista desertorum,SAMN09440291,-30.125,123.1917,0.001913,4219498
+WAMR_145938_Le_punc,Lerista punctatovittata ,Lerista desertorum,SAMN09440298,-30.3661,123.6342,0.001934,2381678
+WAMR_117239_Le_punc,Lerista punctatovittata ,Lerista desertorum,SAMN09440293,-30.2166,123.6333,0.001896,4424128
+WAMR_115093_Le_vari,Lerista varia,Lerista connivens,SAMN09440253,-26.3,113.9833,0.003256,1623566
+WAMR_120969_Le_vari,Lerista varia,Lerista connivens,SAMN09440256,-26.5927,113.8894,0.002953,3744315
+WAMR_141494_Le_vari,Lerista varia,Lerista connivens,SAMN09440260,-25.8522,113.8817,0.003138,4733768
+WAMR_113649_Le_vari,Lerista varia,Lerista connivens,SAMN09440252,-26,113.2,0.002961,2550095
