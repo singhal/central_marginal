@@ -10,8 +10,8 @@ library(phylolm)
 library(sp)
 library(rgeos)
 
-raw = readRDS("~/Dropbox (Personal)/center_marginal/data/correlation.Rds")
-d = read.csv("~/Dropbox (Personal)/center_marginal/data/correlation_centerdist.csv",
+raw = readRDS("~/Dropbox (Personal)/publications/center_marginal/data/correlation.Rds")
+d = read.csv("~/Dropbox (Personal)/publications/center_marginal/data/correlation_centerdist.csv",
              stringsAsFactors = F)
 names(d) = c("species", "pval", "rho", "nind")
 
@@ -34,7 +34,7 @@ d3 = left_join(d2, n1)
 
 # not sure to do biomes bc
 # mostly desert
-b = read.csv("~/Dropbox (Personal)/center_marginal/data/biomes.csv", stringsAsFactors = F)
+b = read.csv("~/Dropbox (Personal)/publications/center_marginal/data/biomes.csv", stringsAsFactors = F)
 d4 = left_join(d3, b)
 
 # envs = vector("list", length = nrow(d3))
@@ -52,15 +52,20 @@ d4 = left_join(d3, b)
 # }
 # d4 = cbind(d3, as.data.frame(do.call(rbind, envs)))
 
-xx = read.csv("~/Dropbox (Personal)/center_marginal/data/demography.csv",
+xx = read.csv("~/Dropbox (Personal)/publications/center_marginal/data/demography.csv",
               stringsAsFactors = F)
 xx1 = xx %>% dplyr::select(species, popchange = param1, 
                      range_p = pval.x, founder = rsq)
 d5 = left_join(d4, xx1)
 
-vars = c("mean_pi", "nind", 
+# shape
+s = read.csv("~/Desktop/shape.csv")
+d5 = left_join(d5, s %>% dplyr::select(species, dist_cv, cov, ex, ex2))
+
+vars = c("mean_pi", "nind", "biome",
          "range_size", "geo_slope",
-         "biome", "popchange", "founder")
+         "popchange", "founder",
+         "cov", "dist_cv")
 
 ##########
 # need to log anything?
@@ -69,7 +74,7 @@ d4g = d5 %>% dplyr::select(vars)  %>% gather(metric, value)
 ggplot(d4g, aes(value)) + 
   geom_histogram(bins = 10) + 
   facet_wrap(~metric, scales = "free")
-to_log = c("nind", 
+to_log = c("nind", "cov", 
            "PC1_range", "range_size", 
            "geo_slope", "founder")
 d4l = d5 %>% mutate_at(to_log, log)
@@ -90,9 +95,6 @@ phylosig(phy2,
 phylosig(phy2, 
          d4l[match(phy2$tip.label, d4l$species), "sig"],
          method = "lambda", test = T)
-
-
-
 
 ## from https://github.com/mrhelmus/phylogeny_manipulation/blob/master/AICc.r
 AICc.phylolm<-function(mod, return.K = FALSE, second.ord = TRUE, nobs = NULL, ...){
@@ -185,8 +187,10 @@ summary(bestmod)
 pdf("~/Dropbox (Personal)/publications/Center_Marginal/figures/model_testing1.pdf",
     height = 3, width = 5)
 par(mar=c(3.5, 1.1, 3.1, 4.1))
-long = c("mean pi", "# of inds", "range size", "IBD slope", "biome",
-         "pop. size change", "range exp.")
+long = c("mean genetic diversity", "# of inds", "biome",
+        "range size", "IBD slope", 
+         "pop. size change", "range expansion",
+        "sampling coverage", "range eccentricity")
 names(long) = vars
 midpoints <- barplot(res$rel_importance, horiz=T)
 text(0.01, midpoints, labels=long[rownames(res)], adj=c(0,0.5), cex=0.8)

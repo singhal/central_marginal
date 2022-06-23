@@ -430,39 +430,6 @@ prow <- plot_grid(a, b, c, d, align = 'vh',
 save_plot("~/Dropbox (Personal)/publications/Center_Marginal/figures/corr_of_correlations.pdf",
           prow, ncol = 2, nrow = 2, base_width = 5, base_height = 4)
 
-######################
-# make individual maps
-######################
 
-maps = vector("list", length(files2))
-for (i in 1:length(files2)) {
-  maps[[i]] = get_map(files2[i])
-}
 
-library(rnaturalearthdata)
-library(rnaturalearth)
-
-world = ne_countries(scale = "medium", returnclass = "sf")
-oz = world[world$admin == "Australia", ]
-
-sps = gsub(".*/", "", files2)
-sps = gsub(".coverage.*", "", sps)
-sp = readxl::read_xlsx("~/Desktop/species_names.xlsx")
-sp2 = pull(sp[match(sps, sp$OTU), "sp_name"])
-
-pdf("~/Dropbox (Personal)/publications/Center_Marginal/figures/species_ranges.pdf", height = 10, width = 10)
-par(mfrow = c(5, 5))
-for (i in 1:length(sps)) {
-  if (nrow(maps[[i]][[2]]) > 9) {
-    par(mar = c(0, 0, 0, 0))
-    plot(1, type="n", axes=FALSE, ann=FALSE,
-         xlim = c(110, 155), ylim = c(-46, -8.5), 
-         xlab = "", ylab = "")
-    plot(oz[1], col = "gray95", add = T)
-    mtext(sp2[i], side = 3, font = 3, cex = 0.7)
-    plot(maps[[i]][[1]], col = "forestgreen", border = FALSE, add = T)
-    points(maps[[i]][[2]][, c("LON", "LAT")], pch = 21, bg = "white")
-  }
-}
-dev.off()
 
